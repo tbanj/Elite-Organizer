@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.ionic.starter" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>sidemenu-app</name>
-    <description>An awesome Ionic/Cordova app.</description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">Ionic Framework Team</author>
+    <name>Elite Organizer</name>
+    <description>This is a cross platform application built with ionic where you can add teams from different tournaments to your elite organizer and you will be notify current news regarding them.</description>
+    <author email="alabiwahab@yahoo.com" href="http://ionicframework.com/">Alabi Temitope Wahab</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
