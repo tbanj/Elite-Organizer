@@ -10,6 +10,9 @@ regarding them.
 # Click on Google Drive Icon Below to download apk
 [<img src="scrs/google_drive.png">](https://drive.google.com/open?id=1ZhbNU7Y7bTI6DXlbXfCllpS0htwShX86)
 
+OR 
+
+https://drive.google.com/open?id=1ZhbNU7Y7bTI6DXlbXfCllpS0htwShX86
 
 
 # Screenshots
