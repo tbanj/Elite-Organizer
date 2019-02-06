@@ -13,11 +13,11 @@ regarding them.
 
 
 # Screenshots
-<img src="scrs/1" alt="Menu" width="288" height="512">&nbsp;
-<img src="scrs/2" alt="Exchange Rate" width="288" height="512">&nbsp;
-<img src="scrs/3" alt="Exchange Rate" width="288" height="512">&nbsp;
-<img src="scrs/4" alt="Exchange Rate" width="288" height="512">&nbsp;
-<img src="scrs/5" alt="Exchange Rate" width="288" height="512">&nbsp;
-<img src="scrs/6" alt="Exchange Rate" width="288" height="512">
+<img src="scrs/1.PNG" alt="Menu" width="288" height="512">&nbsp;
+<img src="scrs/2.PNG" alt="Exchange Rate" width="288" height="512">&nbsp;
+<img src="scrs/3.PNG" alt="Exchange Rate" width="288" height="512">&nbsp;
+<img src="scrs/4.PNG" alt="Exchange Rate" width="288" height="512">&nbsp;
+<img src="scrs/5.PNG" alt="Exchange Rate" width="288" height="512">&nbsp;
+<img src="scrs/6.PNG" alt="Exchange Rate" width="288" height="512">
 
 # Author : Alabi Temitope [<img src="scrs/linkedin-icon.png">](https://www.linkedin.com/in/alabi-temitope-aa036b103/)
